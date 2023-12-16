@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-Title
 Hi 👋, I'm nithadar ✨
 
-Subtitle
-Students who are committed to working.
+I am a student who is committed to work.
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on No Project
